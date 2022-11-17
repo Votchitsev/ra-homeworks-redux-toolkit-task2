@@ -1,0 +1,13 @@
+.profile-photo--image-alt {
+  display: block;
+  width: 200px;
+  height: 200px;
+  background-color: grey;
+  margin-bottom: 10px;
+}
+
+.profile-photo--image {
+  width: 200px;
+  height: 200px;
+  image-rendering: auto;
+}

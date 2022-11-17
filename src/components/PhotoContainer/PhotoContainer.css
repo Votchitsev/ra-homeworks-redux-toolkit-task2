@@ -1,0 +1,11 @@
+.photo {
+  width: 200px;
+  height: 200px;
+}
+
+.photo-container {
+  display: flex;
+  width: 80%;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
